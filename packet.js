@@ -1,13 +1,13 @@
 {
 	"name": "Worldmart Toolkit",
-	"version": "1.1.6",
+	"version": "1.1.9",
 	"download_url": "http://plugins.kutethemes.net/worldmart-toolkit.zip",
 
 	"homepage": "https://worldmart.kutethemes.net/",
-	"requires": "4.5",
-	"tested": "4.8",
-	"last_updated": "2019-27-08 16:17:00",
-	"upgrade_notice": "Update new functions",
+	"requires": "1.2.9",
+	"tested": "1.3.1",
+	"last_updated": "2019-17-12 16:17:00",
+	"upgrade_notice": "Update New Functions",
 
 	"author": "kutetheme",
 	"author_homepage": "https://kutethemes.com/",
